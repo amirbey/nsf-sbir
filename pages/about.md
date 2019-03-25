@@ -35,7 +35,7 @@ For 40 years, America’s Seed Fund powered by NSF has helped startups and small
 You will receive the funding you need as a startup or small business to commercialize technically risky ideas.
 </div>
 <div class="usa-width-one-third" markdown="1">
-You'll retain full control of your team, your technical vision and business strategy, and the resulting intellectual property. We take no equity in exchange for funding.
+You will retain full control of your team, your technical vision and business strategy, and the resulting intellectual property. We take no equity in exchange for funding.
 </div>
 <div class="usa-width-one-third" markdown="1">
 You'll work with a program director, who will serve as your mentor and advocate. You'll also become part of the largest group of technology startups and small businesses in the country.
